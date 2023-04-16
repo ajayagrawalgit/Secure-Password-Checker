@@ -92,3 +92,55 @@ As we're running the Python file directly here. We don't need to actually Instal
 
 Also, if you don't want to install Git as well on your Machine, you can also consider downloading the package as a zip file directly from the GitHub itself. Refer the instructions for the same from <a href="https://sites.northwestern.edu/researchcomputing/resources/downloading-from-github/#:~:text=Without%20Git&text=To%20do%20this%2C%20go%20to,likely%20in%20your%20Downloads%20folder.">here</a>.
 
+
+
+
+<br><br>
+
+## ❗ How to Use ? 🦾
+ 
+> Using the tool is pretty easy to be honest ❤ Please read the instructions below according to your OS:️
+
+### For all Linux Distros and MacOS:
+**For help:**
+```Bash
+securepasswordchecker -h
+OR 
+securepasswordchecker --help
+```
+<br>
+**Tool Syntax**
+```Bash
+securepasswordchecker <passwd1> <passwd2> <passwd3> <passwd4> and so on....
+```
+<br>
+**Examples**
+```Bash
+$> securepasswordchecker this_is_my_password@123
+$> securepasswordchecker iamthequeen@123 kings_password_here1 my_Secure_password@lol
+```
+<br><br>
+
+### For Windows:
+**Move to the src folder and execute 'main.py' like stated below:**
+**For help:**
+```cmd
+cd /d Secure-Password-Checker/src
+```
+```Bash
+python3 main.py -h
+OR
+python3 main.py --help
+```
+<br>
+**Tool Syntax (Remains the same)**
+```Bash
+python3 main.py <passwd1> <passwd2> <passwd3> <passwd4> and so on....
+```
+<br>
+**Examples**
+```cmd
+\Secure-Password-Checker\src>   python3 main.py this_is_my_password@123
+\Secure-Password-Checker\src>   python3 main.py iamthequeen@123 kings_password_here1 my_Secure_password@lol
+```
+
