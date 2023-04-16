@@ -1,3 +1,5 @@
+
+
 <a href="https://www.buymeacoffee.com/ajayagrawal"> <img width="1145" alt="image" src="https://user-images.githubusercontent.com/94609372/232249353-0ecba570-fd71-4041-a575-8fc6ef8deab5.png"> </a>
 
 
@@ -32,6 +34,33 @@
 
 <br><br>
 
+
+## 🛠️ Description / How the tool works ?
+Language: `Python`
+Libraries Used: `requests`, `hashlib`, `sys`
+API Endpoint: `haveibeeinpwned`
+
+<br>
+
+**FAQs:**
+1. Why this is the **most** secure Password checker Tool  ?
+_Because, It does not store your password anywhere even for checking the vulnerabilities. This tool does not send the plain text to the API Endpoint, but, sends SHA-1 Hash._
+
+2. But the Hash can also be decrypted back to Plain Text. What about that ?
+_Absolutely ! That is why, this tool sends only the first 5 characters of that hash to the API Endpoint and hence not disclosing even the full hash of your password to the Internet._
+
+**For Better Understanding, Please check the Flow Chart of how this tool works:**
+![image](https://user-images.githubusercontent.com/94609372/232309885-f8072b03-012b-4ac7-94ca-fdef2c68f430.png)
+
+All the functionalities shown in the Flow Chart above is divided into small python functions stored in `src/checker-functions.py` and being called in `main.py`. 
+It is definitely small, yet an extremely powerful and essential tool to check if the password you're planning to use for any of your account has been a part of any Data Breaches. And if it is, the tool will clearly show you how many times the password you're checking has been a part of Data Breaches.
+
+I hope you find the Description and the Flow-Chart useful. If you have any further questions, Please feel free to reach out and details for that are in _Know Me More_ section below.
+
+Have a great day ahead 🥂 
+
+
+<br><br>
 
 ## 🛠️ Installation Steps (Linux Distros and MacOS)
 
