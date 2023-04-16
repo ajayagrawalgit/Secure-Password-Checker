@@ -31,3 +31,30 @@
 
 
 <br><br>
+
+
+## 🛠️ Installation Steps (Linux Distros and MacOS)
+
+#### 1. Clone the Repository
+
+```Bash
+git clone https://github.com/ajayagrawalgit/Secure-Password-Checker.git
+```
+
+<br>
+
+#### 2. Go Inside the Cloned Repository and Change some Permissions (Changing permissions are required for some OS Types)
+
+```Bash
+cd Secure-Password-Checker
+chmod 755 *
+```
+
+<br>
+
+
+#### 3. Just run the Install Script
+
+```Bash
+./install.sh
+```
