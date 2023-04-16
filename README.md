@@ -68,7 +68,7 @@ chmod 755 *
 
 
 ## 🛠️ Installation Steps (Windows)
-> Note: Make sure that GIT Works and you have Python 3 installed on your machine. If not, please download and install git from <a href="https://git-scm.com/download/win">here</a> and Python from<a href="https://www.python.org/downloads/windows/">here</a>. Once downloaded and Installed, Please follow the steps below:
+> Note: Make sure that GIT Works and you have Python 3 installed on your machine. If not, please download and install git from <a href="https://git-scm.com/download/win">here</a> and Python from <a href="https://www.python.org/downloads/windows/">here</a>. Once downloaded and Installed, Please follow the steps below:
 
 #### 1. Clone the Repository
 
@@ -88,7 +88,7 @@ python3 main.py -h
 
 <br>
 
-As we're running the Python file directly here. We don't need to actually Install the tool on our machine. If you need step by step instructions how to set up python on your windows machine. I found this website quite good. You can definitely refer to this -> https://www.tutorialspoint.com/how-to-install-python-in-windows
+As we're running the Python file directly here. We don't need to actually Install the tool on our machine. If you need step by step instructions how to set up python on your windows machine. I found this website quite good. You can definitely refer to <a href="https://www.tutorialspoint.com/how-to-install-python-in-windows">this link</a>.
 
-Also, if you don't want to install Git as well on your Machine, you can also consider downloading the package as a zip file directly from the GitHub itself.
+Also, if you don't want to install Git as well on your Machine, you can also consider downloading the package as a zip file directly from the GitHub itself. Refer the instructions for the same from <a href="https://sites.northwestern.edu/researchcomputing/resources/downloading-from-github/#:~:text=Without%20Git&text=To%20do%20this%2C%20go%20to,likely%20in%20your%20Downloads%20folder.">here</a>.
 
