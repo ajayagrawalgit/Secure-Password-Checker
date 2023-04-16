@@ -36,9 +36,9 @@
 
 
 ## 🛰️ Description / How the tool works ?
-Language: `Python`
-Libraries Used: `requests`, `hashlib`, `sys`
-API Endpoint: `haveibeeinpwned`
+Language: `Python` <br>
+Libraries Used: `requests`, `hashlib`, `sys`<br>
+API Endpoint: `haveibeeinpwned`<br>
 
 <br>
 
