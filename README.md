@@ -35,7 +35,7 @@
 <br><br>
 
 
-## 🛠️ Description / How the tool works ?
+## 🛰️ Description / How the tool works ?
 Language: `Python`
 Libraries Used: `requests`, `hashlib`, `sys`
 API Endpoint: `haveibeeinpwned`
