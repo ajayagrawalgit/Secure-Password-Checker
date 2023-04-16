@@ -110,13 +110,13 @@ securepasswordchecker --help
 ```
 <br>
 
-**Tool Syntax**
+**Tool Syntax:**
 ```Bash
 securepasswordchecker <passwd1> <passwd2> <passwd3> <passwd4> and so on....
 ```
 <br>
 
-**Examples**
+**Examples:**
 ```Bash
 $> securepasswordchecker this_is_my_password@123
 $> securepasswordchecker iamthequeen@123 kings_password_here1 my_Secure_password@lol
@@ -124,7 +124,7 @@ $> securepasswordchecker iamthequeen@123 kings_password_here1 my_Secure_password
 <br><br>
 
 ### For Windows:
-**Move to the src folder and execute 'main.py' like stated below:**
+**Move to the `src` folder and execute `main.py` like stated below:**
 **For help:**
 ```cmd
 cd /d Secure-Password-Checker/src
@@ -136,14 +136,46 @@ python3 main.py --help
 ```
 <br>
 
-**Tool Syntax (Remains the same)**
+**Tool Syntax (Remains the same):**
 ```Bash
 python3 main.py <passwd1> <passwd2> <passwd3> <passwd4> and so on....
 ```
 <br>
 
-**Examples**
+**Examples:**
 ```cmd
 \Secure-Password-Checker\src>   python3 main.py this_is_my_password@123
 \Secure-Password-Checker\src>   python3 main.py iamthequeen@123 kings_password_here1 my_Secure_password@lol
 ```
+
+<br><br>
+
+
+## 🎊 Future Updates
+
+- [ ] Make the command-line tool accessible across terminal in Windows as well like Linux.
+- [ ] May be `Beautify` the text displayed on the terminal.
+ 
+ <br>
+ <br>
+ 
+ 
+ ## 🧑🏻 Know Me More
+Developer - <b> Ajay Agrawal </b>
+<br>
+- 🌌 [Profile](https://github.com/ajayagrawalgit "Ajay Agrawal")
+- 🏮 [Email](mailto:ajayagrawalhere@gmail.com?subject=Hi%20from%20<repo-email> "Hi!")
+- 🐦 [Twitter Bot (@mickbotsays)](https://twitter.com/mickbotsays)
+
+<br>
+<br>
+<h2 align="center"> 🤝 Support Me 🤝 <h2>
+<p align="center">
+<a href="https://www.buymeacoffee.com/ajayagrawal" title="Buy me a Coffee"><img src="https://user-images.githubusercontent.com/94609372/232127833-d03502af-baf2-46e3-a045-0f7c84531a61.png" alt="Buy me a Coffee"/></a>
+</p>
+<br><br>
+<h4>
+<br>
+<p align="center"> Made with ♥️ in India </p>
+<br>
+<h4>
