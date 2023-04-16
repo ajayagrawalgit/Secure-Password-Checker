@@ -109,11 +109,13 @@ OR
 securepasswordchecker --help
 ```
 <br>
+
 **Tool Syntax**
 ```Bash
 securepasswordchecker <passwd1> <passwd2> <passwd3> <passwd4> and so on....
 ```
 <br>
+
 **Examples**
 ```Bash
 $> securepasswordchecker this_is_my_password@123
@@ -133,14 +135,15 @@ OR
 python3 main.py --help
 ```
 <br>
+
 **Tool Syntax (Remains the same)**
 ```Bash
 python3 main.py <passwd1> <passwd2> <passwd3> <passwd4> and so on....
 ```
 <br>
+
 **Examples**
 ```cmd
 \Secure-Password-Checker\src>   python3 main.py this_is_my_password@123
 \Secure-Password-Checker\src>   python3 main.py iamthequeen@123 kings_password_here1 my_Secure_password@lol
 ```
-
