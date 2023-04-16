@@ -38,7 +38,7 @@
 ## 🛰️ Description / How the tool works ?
 Language: `Python` <br>
 Libraries Used: `requests`, `hashlib`, `sys`<br>
-API Endpoint: `haveibeeinpwned`<br>
+API Endpoint: `haveibeenpwned`<br>
 
 <br>
 
