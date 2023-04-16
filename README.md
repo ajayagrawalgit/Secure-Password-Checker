@@ -58,3 +58,37 @@ chmod 755 *
 ```Bash
 ./install.sh
 ```
+
+<br><br>
+
+###
+
+<br><br>
+
+
+
+## 🛠️ Installation Steps (Windows)
+> Note: Make sure that GIT Works and you have Python 3 installed on your machine. If not, please download and install git from <a href="https://git-scm.com/download/win">here</a> and Python from<a href="https://www.python.org/downloads/windows/">here</a>. Once downloaded and Installed, Please follow the steps below:
+
+#### 1. Clone the Repository
+
+```Bash
+git clone https://github.com/ajayagrawalgit/Secure-Password-Checker.git
+```
+
+<br>
+
+#### 2. Go Inside the Cloned Repository and Run the Python File directly using the command below:
+
+```Bash
+cd /d Secure-Password-Checker/src
+python3 main.py -h
+```
+> Above Command will display the help message for the tool.
+
+<br>
+
+As we're running the Python file directly here. We don't need to actually Install the tool on our machine. If you need step by step instructions how to set up python on your windows machine. I found this website quite good. You can definitely refer to this -> https://www.tutorialspoint.com/how-to-install-python-in-windows
+
+Also, if you don't want to install Git as well on your Machine, you can also consider downloading the package as a zip file directly from the GitHub itself.
+
