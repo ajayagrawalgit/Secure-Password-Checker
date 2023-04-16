@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">🌟 Secure-Password-Checker 🌟</h1> <p align="center"><b>👑 An Open Source Project 👑 Built with Python 🐍</b></p> <br><br>
+<h1 align="center">🛡️ Secure-Password-Checker 🛡️</h1> <p align="center"><b>👑 An Open Source Project 👑 Built with Python 🐍</b></p> <br><br>
 <p align="center"><repo-desc></p>
 
 <p align="center">
