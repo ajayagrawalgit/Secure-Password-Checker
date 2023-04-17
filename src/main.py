@@ -18,10 +18,12 @@ def main():
 ####################################################################################################
 
 if __name__ == "__main__":
+        
     if len(sys.argv) == 1:
         no_arg_message();
         sys.exit(0)
     elif sys.argv[1] == "-h" or sys.argv[1] == "--help":
         help_message()
         sys.exit(0)
-   main()
+    
+    main()
